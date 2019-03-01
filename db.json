@@ -1,11 +1,5 @@
-{"burgers":
-  [
-    {
-      "id": 1,
-      "name": "Good Burger",
-      "description": "What a Good Burger!",
-      "image": "https://www.lovelesscafe.com/uploads/recipeimages/BBQBaconBurger-web.jpg"
-    },
+{
+  "burgers": [
     {
       "id": 2,
       "name": "Sal's Burger",
@@ -51,13 +45,13 @@
     {
       "id": 9,
       "name": "Veggie Burger",
-      "description": "Not Really a Burger",
+      "description": "yum",
       "image": "https://cookieandkate.com/images/2013/05/sweet-potato-black-bean-veggie-burgers-recipe-0.jpg"
     },
     {
       "id": 10,
       "name": "Spinach",
-      "description": "Ew.",
+      "description": "Yum.",
       "image": "https://www.organicfacts.net/wp-content/uploads/spinach.jpg"
     },
     {
